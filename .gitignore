@@ -1,0 +1,22 @@
+# virtual environment files
+venv/
+env/
+.venv/
+
+# ide
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# build / dist
+build/
+dist/
+*.egg-info/
+*.spec
